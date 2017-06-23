@@ -119,6 +119,6 @@ document.onkeypress = function(event) {
     
         setTimeout(function() {
             alert("You win! The answer was " + word + "."); 
-        }, 500)
+        }, 500);
   }
 }
